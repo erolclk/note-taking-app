@@ -1,0 +1,19 @@
+/* src/assets/styles/App.css */
+.layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280px;
+  margin: 24px 0;
+}
+
+textarea.ant-input {
+  width: 100%;
+}
+
+button.ant-btn {
+  width: 100%;
+}
