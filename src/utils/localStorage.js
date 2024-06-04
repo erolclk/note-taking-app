@@ -1,4 +1,3 @@
-// src/utils/localStorage.js
 export const saveNotes = (notes) => {
     localStorage.setItem('notes', JSON.stringify(notes));
   };

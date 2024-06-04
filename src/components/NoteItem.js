@@ -1,4 +1,3 @@
-// src/components/NoteItem.js
 import React from 'react';
 import { List } from 'antd';
 
